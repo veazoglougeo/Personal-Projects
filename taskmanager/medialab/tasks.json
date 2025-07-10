@@ -1,0 +1,57 @@
+[ {
+  "title" : "Family Gathering",
+  "description" : "Visit mom's house ",
+  "category" : "Family",
+  "priority" : "High",
+  "dueDate" : "2025-03-08",
+  "state" : "Delayed",
+  "reminders" : [ {
+    "date" : "2025-03-01",
+    "type" : "One week before",
+    "label" : "Gift"
+  } ]
+}, {
+  "title" : "Car service",
+  "description" : "Tires seem to be flat",
+  "category" : "Car",
+  "priority" : "Medium",
+  "dueDate" : "2025-02-25",
+  "state" : "Delayed",
+  "reminders" : [ {
+    "date" : "2025-02-18",
+    "type" : "One week before",
+    "label" : "Arrange an appointment with the mechanic"
+  } ]
+}, {
+  "title" : "Walk the dog",
+  "description" : "Call Stella and go for a walk",
+  "category" : "Pet",
+  "priority" : "Low",
+  "dueDate" : "2025-03-02",
+  "state" : "Delayed",
+  "reminders" : [ {
+    "date" : "2025-02-23",
+    "type" : "One week before",
+    "label" : "Buy new leash "
+  } ]
+}, {
+  "title" : "Hairdresser",
+  "description" : "Go to the hairdresser to renew my look",
+  "category" : "Personal",
+  "priority" : "Default",
+  "dueDate" : "2025-03-13",
+  "state" : "Delayed",
+  "reminders" : [ {
+    "date" : "2025-03-12",
+    "type" : "One day before",
+    "label" : "Arrange an appointment"
+  } ]
+}, {
+  "title" : "Gym",
+  "description" : "Find a new gym",
+  "category" : "Personal",
+  "priority" : "High",
+  "dueDate" : "2025-03-07",
+  "state" : "Delayed",
+  "reminders" : [ ]
+} ]
